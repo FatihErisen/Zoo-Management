@@ -9,3 +9,5 @@
 - System should be able to calculate Feed times => getFeedSchedule()
 
 ![](https://github.com/FatihErisen/Zoo-Management/blob/main/UML%20class.png)
+
+<ins>text</ins>
